@@ -68,8 +68,6 @@ Experimento com ML no-code para previsão de demanda de estoque usando AWS SageM
 ## 💼 Trajetória Profissional
 
 ```
-30 anos em tecnologia
-│
 ├── Telerisco (2018–2025) ─── Coordenador de Produto
 │   ├── Liderança de squads multifuncionais
 │   ├── Automação de atendimento via chatbot (WhatsApp)
