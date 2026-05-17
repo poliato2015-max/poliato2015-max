@@ -28,8 +28,6 @@ Estou em transição ativa para a área de **IA & LLMs**, aplicando na prática 
 | ☁️ AWS SageMaker Canvas | Predição e modelos de ML sem código |
 | 📓 NotebookLM | Engenharia de prompts e aprendizado com fontes |
 | ⚡ Lovable + Copilot | Vibe Coding — desenvolvimento de apps com IA |
-| 🐘 PostgreSQL + DBeaver | Consultas e extração de dados |
-| 📊 Power BI + MicroStrategy | Dashboards gerenciais e KPIs |
 
 ---
 
