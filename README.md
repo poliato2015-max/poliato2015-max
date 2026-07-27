@@ -1,8 +1,8 @@
 # Olá, eu sou o Marcelo Poliato 👋
 
-### Product Manager com sólida experiência em tecnologia de produto — em transição estratégica para IA aplicada a negócios
+### Product Manager com sólida experiência em tecnologia de produto, em transição estratégica para IA aplicada a negócios e automação inteligente de processos
 
-Combino uma trajetória sólida em gestão de produto, liderança de squads e automação de processos com uma imersão prática em **Inteligência Artificial Generativa**, **LLMs** e o método **Vibe Coding** — transformando problemas reais de negócio em soluções inteligentes e escaláveis.
+Combino uma trajetória sólida em gestão de produto, liderança de squads e automação de processos com uma imersão prática em Inteligência Artificial Generativa, LLMs, N8N e o método Vibe Coding, transformando problemas reais de negócio em soluções inteligentes e escaláveis.
 
 > "Meu diferencial é transformar IA em produtos que geram resultado real de negócio."
 
@@ -10,11 +10,11 @@ Combino uma trajetória sólida em gestão de produto, liderança de squads e au
 
 ## 🚀 O que estou construindo agora
 
-Estou em transição ativa para a área de **IA & LLMs**, aplicando na prática ferramentas de ponta para desenvolver soluções de produto com IA. Meu foco está em:
+Estou em transição ativa para a área de IA & LLMs e automação inteligente, aplicando na prática ferramentas de ponta para desenvolver soluções de produto com IA. Meu foco está em:
 
-- **Product Management para IA** — definição de escopo, roadmap e entrega de produtos com IA embarcada
-- **Vibe Coding** — desenvolvimento ágil de aplicações com assistência de IA (Lovable, Cursor, Copilot)
-- **Automação Inteligente** — uso de LLMs e engenharia de prompts para automatizar fluxos de negócio
+- **Product Management para IA**: definição de escopo, roadmap e entrega de produtos com IA embarcada
+- **Vibe Coding**: desenvolvimento ágil de aplicações com assistência de IA (Lovable e Copilot)
+- **Automação Inteligente**: uso de N8N, LLMs e engenharia de prompts para automatizar fluxos de negócio
 - **Engenharia de Prompts** — criação de prompts estruturados para sistemas de IA em produção
 
 ---
@@ -28,10 +28,18 @@ Estou em transição ativa para a área de **IA & LLMs**, aplicando na prática 
 | ☁️ AWS SageMaker Canvas | Predição e modelos de ML sem código |
 | 📓 NotebookLM | Engenharia de prompts e aprendizado com fontes |
 | ⚡ Lovable + Copilot | Vibe Coding — desenvolvimento de apps com IA |
+| 🔄 N8N | Automação inteligente de fluxos com IA e integrações |
 
 ---
 
 ## 📂 Projetos em Destaque
+
+### 🦷 [Automação N8N — Atendimento Consultório Odontológico](https://github.com/poliato2015-max/projeto-automacao-n8n-atendimento-consultorio)
+
+Fluxo completo de atendimento automático via WhatsApp para consultórios odontológicos — com IA Generativa (OpenAI GPT-5 mini), transcrição de áudio via Groq Whisper, buffer de mensagens picadas com Redis, histórico de conversas no Supabase e gerenciamento de agendamentos via Google Calendar (MCP). N8N OpenAI GPT-5 mini WhatsApp API Supabase Redis Google Calendar MCP.
+`N8N` `OpenAI GPT-5 mini` `WhatsApp API` `Supabase` `Redis` `Google Calendar` `MCP`
+
+---
 
 ### 🤖 [Sistema CRM com Google AI Studio](https://github.com/poliato2015-max/projeto_ia_google_ia_studio_sistema_crm)
 Construção de um sistema de CRM inteligente utilizando Gemini via Google AI Studio. O projeto explora como LLMs podem automatizar interações e enriquecer dados de clientes em tempo real.
@@ -82,7 +90,7 @@ Experimento com ML no-code para previsão de demanda de estoque usando AWS SageM
 
 ## 🎯 O que busco agora
 
-Estou buscando oportunidades como **Product Manager de IA** em empresas que acreditam que a inteligência artificial deve gerar impacto real de negócio — não apenas inovar por inovar.
+Estou buscando oportunidades como **Product Manager de IA** em empresas que acreditam que a inteligência artificial deve gerar impacto real de negócio, não apenas inovar por inovar.
 
 Se você trabalha com IA, automação inteligente ou produtos de dados e precisa de alguém que entende tanto de tecnologia quanto de negócio, vamos conversar.
 
