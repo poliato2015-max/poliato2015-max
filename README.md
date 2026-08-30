@@ -15,7 +15,7 @@ Aplico na prática ferramentas de ponta nas áreas de IA & LLMs e automação in
 - **Product Management para IA**: definição de escopo, roadmap e entrega de produtos com IA embarcada
 - **Vibe Coding**: desenvolvimento ágil de aplicações com assistência de IA (Lovable, Google AI Studio, Claude, Copilot)
 - **Automação Inteligente**: uso de N8N, LLMs e engenharia de prompts para automatizar fluxos de negócio
-- **Engenharia de Prompts** — criação de prompts estruturados para sistemas de IA em produção
+- **Engenharia de Prompts**: criação de prompts estruturados para sistemas de IA em produção
 
 ---
 
