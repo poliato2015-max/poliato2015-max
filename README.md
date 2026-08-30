@@ -10,7 +10,7 @@ Combino uma trajetória sólida em gestão de produto, liderança de squads e au
 
 ## 🚀 O que estou construindo agora
 
-Estou em transição ativa para a área de IA & LLMs e automação inteligente, aplicando na prática ferramentas de ponta para desenvolver soluções de produto com IA. Meu foco está em:
+Aplico na prática ferramentas de ponta nas áreas de IA & LLMs e automação inteligente, desenvolvendo soluções de produto com IA. Meu foco está em:
 
 - **Product Management para IA**: definição de escopo, roadmap e entrega de produtos com IA embarcada
 - **Vibe Coding**: desenvolvimento ágil de aplicações com assistência de IA (Lovable e Copilot)
@@ -90,7 +90,7 @@ Experimento com ML no-code para previsão de demanda de estoque usando AWS SageM
 
 ## 🎯 O que busco agora
 
-Estou buscando oportunidades como **Product Manager de IA** em empresas que acreditam que a inteligência artificial deve gerar impacto real de negócio, não apenas inovar por inovar.
+Estou buscando oportunidades como Product Manager ou Especialista com IA e Automação Inteligente em empresas que acreditam que a inteligência artificial deve gerar impacto real de negócio, não apenas inovar por inovar.
 
 Se você trabalha com IA, automação inteligente ou produtos de dados e precisa de alguém que entende tanto de tecnologia quanto de negócio, vamos conversar.
 
