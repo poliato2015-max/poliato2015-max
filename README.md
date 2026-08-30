@@ -1,6 +1,6 @@
 # Olá, eu sou o Marcelo Poliato 👋
 
-### Product Manager com sólida experiência em tecnologia de produto, em transição estratégica para IA aplicada a negócios e automação inteligente de processos
+### Product Manager com sólida experiência em tecnologia de produto, em constante aperfeiçoamento em Inteligência Artificial aplicada a negócios e automação inteligente de processos.
 
 Combino uma trajetória sólida em gestão de produto, liderança de squads e automação de processos com uma imersão prática em Inteligência Artificial Generativa, LLMs, N8N e o método Vibe Coding, transformando problemas reais de negócio em soluções inteligentes e escaláveis.
 
