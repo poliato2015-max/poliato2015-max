@@ -89,12 +89,6 @@ Assistente de vendas com IA que gera estratégia completa de venda, cross-sell e
 
 ---
 
-### 💰 [Bolsa — App de Finanças Pessoais com IA](https://github.com/poliato2015-max/projeto_ia_lovable_claude_copilot_app_financas)
-Aplicativo web completo de finanças pessoais com registro de transações em linguagem natural, dashboard analítico e metas inteligentes. Desenvolvido com Vibe Coding — Claude e GitHub Copilot para refinamento do PRD e Lovable para desenvolvimento completo, com deploy em produção.
-`TypeScript` `Lovable` `Claude` `GitHub Copilot` `Vibe Coding` `Supabase`
-
----
-
 ### 🚚 [Análise de Dados de Logística — Dashboard Power BI](https://github.com/poliato2015-max/projeto_dados_power_bi_controle_logistica)
 Dashboard executivo de Logística construído a partir de um diagnóstico crítico — identificação de erros e problemas em um dashboard já pronto, reconstrução do zero com medidas DAX reutilizáveis e visuais escolhidos por tipo e volume de dados. KPIs de entregas por canal, equipe, vendedor e cidade.
 `Power BI` `DAX` `Excel` `Business Intelligence` `Análise de Dados`
@@ -104,18 +98,6 @@ Dashboard executivo de Logística construído a partir de um diagnóstico críti
 ### 👥 [Análise de Dados de RH — Dashboard Power BI](https://github.com/poliato2015-max/projeto_dados_power_bi_gestao_recursos_humanos)
 Dashboard executivo de Recursos Humanos com preparação de dados no Power Query (linguagem M) e camada de cálculo em DAX — transformação de base bruta com colunas condicionais, medidas reutilizáveis e visuais para análise de headcount, gênero, salário, envolvimento e treinamentos.
 `Power BI` `DAX` `Power Query` `CSV` `Business Intelligence` `Análise de Dados`
-
----
-
-### 📘 [Caderno de Renda Fixa com NotebookLM](https://github.com/poliato2015-max/projeto_ia_notebooklm_iniciante_investidor_renda_fixa)
-Caderno temático com 6 blocos de prompts comparativos, cicatrizes de aprendizado e miniguia completo sobre Renda Fixa — construído com NotebookLM e fontes oficiais do Tesouro Direto, Banco Central, CVM e B3.
-`NotebookLM` `Engenharia de Prompts` `IA Aplicada` `Educação Financeira`
-
----
-
-### ☁️ [Previsão de Estoque com AWS SageMaker Canvas](https://github.com/poliato2015-max/lab-aws-sagemaker-canvas-estoque)
-Modelo de Machine Learning no-code para previsão de demanda de estoque com dataset de 500 registros gerado por IA Generativa (Claude Sonnet) — AutoML com séries temporais para previsão do volume de estoque do dia seguinte por produto.
-`AWS SageMaker` `Machine Learning` `AutoML` `No-Code ML`
 
 ---
 
