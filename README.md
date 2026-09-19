@@ -23,8 +23,8 @@ Aplico na prática ferramentas de ponta nas áreas de IA & LLMs e automação in
 
 ### IA & Automação
 
-| Ferramenta | Uso nos Projetos |
-|---|---|
+| Ferramenta &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Uso nos Projetos |
+| :--- | :--- |
 | 🔄 N8N | Automação inteligente de fluxos com IA e integrações |
 | 🤖 Google AI Studio (Gemini) | Construção de sistemas CRM com IA generativa |
 | 🧠 Claude (Anthropic) | Assistente de produto e automação de raciocínio |
@@ -36,8 +36,8 @@ Aplico na prática ferramentas de ponta nas áreas de IA & LLMs e automação in
 
 ### Dados & BI
 
-| Ferramenta | Uso nos Projetos |
-|---|---|
+| Ferramenta &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Uso nos Projetos &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :--- | :--- |
 | 📊 Power BI | Dashboards executivos e análise de dados de negócio |
 | 🧮 DAX | Camada de cálculo e medidas reutilizáveis no Power BI |
 | 🔧 Power Query (M) | ETL, transformação e limpeza de dados |
@@ -46,14 +46,15 @@ Aplico na prática ferramentas de ponta nas áreas de IA & LLMs e automação in
 
 ### Desenvolvimento & Backend
 
-| Ferramenta | Uso nos Projetos |
-|---|---|
+| Ferramenta &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Uso nos Projetos &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :--- | :--- |
 | ⚛️ React + TypeScript | Frontend de aplicações web completas |
 | 🟢 Supabase | Backend, autenticação, banco de dados e storage |
 | 🔴 Redis via Upstash | Buffer de mensagens e cache em tempo real |
 | 🚀 Vercel | Deploy e hospedagem de aplicações web |
 | 🔗 WhatsApp Cloud API | Integração com API oficial da Meta |
 | 📅 Google Calendar (MCP) | Gerenciamento de agendamentos via agentes de IA |
+
 
 ---
 
