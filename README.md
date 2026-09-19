@@ -19,55 +19,103 @@ Aplico na prática ferramentas de ponta nas áreas de IA & LLMs e automação in
 
 ---
 
-## 🛠️ Tech Stack de IA
+## 🛠️ Tech Stack
+
+### IA & Automação
 
 | Ferramenta | Uso nos Projetos |
 |---|---|
+| 🔄 N8N | Automação inteligente de fluxos com IA e integrações |
 | 🤖 Google AI Studio (Gemini) | Construção de sistemas CRM com IA generativa |
 | 🧠 Claude (Anthropic) | Assistente de produto e automação de raciocínio |
-| ☁️ AWS SageMaker Canvas | Predição e modelos de ML sem código |
+| ⚡ OpenAI GPT-5 mini | LLM conversacional em automações de atendimento |
+| 🎙️ Groq Whisper | Transcrição de áudio para texto em tempo real |
 | 📓 NotebookLM | Engenharia de prompts e aprendizado com fontes |
+| ☁️ AWS SageMaker Canvas | Predição e modelos de ML sem código |
 | ⚡ Lovable + Copilot | Vibe Coding — desenvolvimento de apps com IA |
-| 🔄 N8N | Automação inteligente de fluxos com IA e integrações |
+
+### Dados & BI
+
+| Ferramenta | Uso nos Projetos |
+|---|---|
+| 📊 Power BI | Dashboards executivos e análise de dados de negócio |
+| 🧮 DAX | Camada de cálculo e medidas reutilizáveis no Power BI |
+| 🔧 Power Query (M) | ETL, transformação e limpeza de dados |
+| 📈 MicroStrategy | Dashboards gerenciais corporativos |
+| 🐘 PostgreSQL + DBeaver | Consultas, modelagem e extração de dados |
+
+### Desenvolvimento & Backend
+
+| Ferramenta | Uso nos Projetos |
+|---|---|
+| ⚛️ React + TypeScript | Frontend de aplicações web completas |
+| 🟢 Supabase | Backend, autenticação, banco de dados e storage |
+| 🔴 Redis via Upstash | Buffer de mensagens e cache em tempo real |
+| 🚀 Vercel | Deploy e hospedagem de aplicações web |
+| 🔗 WhatsApp Cloud API | Integração com API oficial da Meta |
+| 📅 Google Calendar (MCP) | Gerenciamento de agendamentos via agentes de IA |
 
 ---
 
 ## 📂 Projetos em Destaque
 
+### 🛵 [DeliveryPro — Sistema Completo de Delivery](https://github.com/poliato2015-max/projeto-ia-lovable-n8n-app-deliverypro)
+Plataforma web full-stack para gerenciamento do ciclo completo de pedidos de delivery — cardápio público, carrinho, checkout, aprovação administrativa em Kanban, validação geográfica de entrega, relatórios gerenciais e notificações automáticas via WhatsApp integrado ao N8N.
+`React` `TypeScript` `Supabase` `N8N` `WhatsApp API` `BrasilAPI` `RLS` `Realtime` `Lovable`
+
+---
+
+### 📄 [RadarCV — Inteligência de Carreira com IA](https://github.comliato2015-max/projeto-ia-lovable-curriculo-match-ats)
+Plataforma web completa para análise de vagas e geração de currículos otimizados para sistemas ATS com IA Generativa — análise de compatibilidade, pontuação, identificação de gaps, geração de currículo ATS, biblioteca de currículos com versionamento e exportação em PDF e DOCX.
+`React` `TypeScript` `Supabase` `IA Generativa` `ATS` `Lovable` `PDF` `DOCX`
+
+---
+
 ### 🦷 [Automação N8N — Atendimento Consultório Odontológico](https://github.com/poliato2015-max/projeto-automacao-n8n-atendimento-consultorio)
-
-Fluxo completo de atendimento automático via WhatsApp para consultórios odontológicos — com IA Generativa (OpenAI GPT-5 mini), transcrição de áudio via Groq Whisper, buffer de mensagens picadas com Redis, histórico de conversas no Supabase e gerenciamento de agendamentos via Google Calendar (MCP). N8N OpenAI GPT-5 mini WhatsApp API Supabase Redis Google Calendar MCP.
-`N8N` `OpenAI GPT-5 mini` `WhatsApp API` `Supabase` `Redis` `Google Calendar` `MCP`
-
----
-
-### 🤖 [Sistema CRM com Google AI Studio](https://github.com/poliato2015-max/projeto_ia_google_ia_studio_sistema_crm)
-Construção de um sistema de CRM inteligente utilizando Gemini via Google AI Studio. O projeto explora como LLMs podem automatizar interações e enriquecer dados de clientes em tempo real.
-`TypeScript` `Google AI Studio` `Gemini` `LLM`
+Fluxo completo de atendimento automático via WhatsApp para consultórios odontológicos — IA Generativa (OpenAI GPT-5 mini), transcrição de áudio via Groq Whisper, buffer de mensagens picadas com Redis, histórico de conversas no Supabase e gerenciamento de agendamentos via Google Calendar (MCP).
+`N8N` `OpenAI GPT-5 mini` `WhatsApp API` `Supabase` `Redis` `Google Calendar` `MCP` `Groq`
 
 ---
 
-### 💸 [Copiloto de Vendas para Loja Gamer](https://github.com/poliato2015-max/projeto_ia_lovable_claude_app_venda_gamer)
-App de vendas com IA que gera estratégias completas de venda, cross-sell e follow-up para WhatsApp em tempo real. Desenvolvido com Vibe Coding usando Lovable + Claude.
-`TypeScript` `Lovable` `Claude` `Vibe Coding`
+### 🤖 [Executive Lens — CRM Inteligente com Google AI Studio](https://github.com/poliato2015-max/projeto_ia_google_ia_studio_sistema_crm)
+Plataforma CRM completa com autenticação, pipeline de negócios, métricas de performance e central de tarefas — desenvolvida com Google AI Studio (Gemini) como copiloto de desenvolvimento, integrando Supabase como backend e Vercel para deploy.
+`TypeScript` `Google AI Studio` `Gemini` `Supabase` `Vercel` `Lovable`
 
 ---
 
-### 📱 [App de Finanças Pessoais com IA](https://github.com/poliato2015-max/projeto_ia_lovable_claude_copilot_app_financas)
-Aplicação de gestão financeira pessoal desenvolvida com IA generativa e Vibe Coding — da ideia ao produto funcional com velocidade e inteligência.
-`TypeScript` `Lovable` `GitHub Copilot` `Vibe Coding`
+### 🎮 [GamerZone — Copiloto de Vendas com IA](https://github.com/poliato2015-max/projeto_ia_lovable_claude_app_venda_gamer)
+Assistente de vendas com IA que gera estratégia completa de venda, cross-sell e follow-up para WhatsApp em tempo real, com RAG simulado para consulta à política da loja. Desenvolvido com Vibe Coding usando Lovable e Gemini 2.5 Flash.
+`TypeScript` `Lovable` `Claude` `Gemini` `Vibe Coding`
 
 ---
 
-### 📘 [Investidor Iniciante em Renda Fixa com NotebookLM](https://github.com/poliato2015-max/projeto_ia_notebooklm_iniciante_investidor_renda_fixa)
-Caderno temático que documenta o uso de IA (NotebookLM + engenharia de prompts) para aprender sobre Renda Fixa a partir de fontes oficiais (Tesouro Direto, Banco Central, CVM). Inclui 6 blocos de prompts comparativos, cicatrizes de aprendizado e miniguia completo.
+### 💰 [Bolsa — App de Finanças Pessoais com IA](https://github.com/poliato2015-max/projeto_ia_lovable_claude_copilot_app_financas)
+Aplicativo web completo de finanças pessoais com registro de transações em linguagem natural, dashboard analítico e metas inteligentes. Desenvolvido com Vibe Coding — Claude e GitHub Copilot para refinamento do PRD e Lovable para desenvolvimento completo, com deploy em produção.
+`TypeScript` `Lovable` `Claude` `GitHub Copilot` `Vibe Coding` `Supabase`
+
+---
+
+### 🚚 [Análise de Dados de Logística — Dashboard Power BI](https://github.com/poliato2015-max/projeto_dados_power_bi_controle_logistica)
+Dashboard executivo de Logística construído a partir de um diagnóstico crítico — identificação de erros e problemas em um dashboard já pronto, reconstrução do zero com medidas DAX reutilizáveis e visuais escolhidos por tipo e volume de dados. KPIs de entregas por canal, equipe, vendedor e cidade.
+`Power BI` `DAX` `Excel` `Business Intelligence` `Análise de Dados`
+
+---
+
+### 👥 [Análise de Dados de RH — Dashboard Power BI](https://github.com/poliato2015-max/projeto_dados_power_bi_gestao_recursos_humanos)
+Dashboard executivo de Recursos Humanos com preparação de dados no Power Query (linguagem M) e camada de cálculo em DAX — transformação de base bruta com colunas condicionais, medidas reutilizáveis e visuais para análise de headcount, gênero, salário, envolvimento e treinamentos.
+`Power BI` `DAX` `Power Query` `CSV` `Business Intelligence` `Análise de Dados`
+
+---
+
+### 📘 [Caderno de Renda Fixa com NotebookLM](https://github.com/poliato2015-max/projeto_ia_notebooklm_iniciante_investidor_renda_fixa)
+Caderno temático com 6 blocos de prompts comparativos, cicatrizes de aprendizado e miniguia completo sobre Renda Fixa — construído com NotebookLM e fontes oficiais do Tesouro Direto, Banco Central, CVM e B3.
 `NotebookLM` `Engenharia de Prompts` `IA Aplicada` `Educação Financeira`
 
 ---
 
 ### ☁️ [Previsão de Estoque com AWS SageMaker Canvas](https://github.com/poliato2015-max/lab-aws-sagemaker-canvas-estoque)
-Experimento com ML no-code para previsão de demanda de estoque usando AWS SageMaker Canvas — explorando como líderes de produto podem validar hipóteses com machine learning sem código.
-`AWS SageMaker` `Machine Learning` `No-Code ML`
+Modelo de Machine Learning no-code para previsão de demanda de estoque com dataset de 500 registros gerado por IA Generativa (Claude Sonnet) — AutoML com séries temporais para previsão do volume de estoque do dia seguinte por produto.
+`AWS SageMaker` `Machine Learning` `AutoML` `No-Code ML`
 
 ---
 
