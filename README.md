@@ -29,7 +29,7 @@ Aplico na prática ferramentas de ponta nas áreas de IA & LLMs e automação in
 | 🔄 N8N | Automação inteligente de fluxos com IA e integrações |
 | 🤖 Google AI Studio (Gemini) | Construção de sistemas CRM com IA generativa |
 | 🧠 Claude (Anthropic) | Assistente de produto e automação de raciocínio |
-| ⚡ OpenAI GPT-5 mini | LLM conversacional em automações de atendimento |
+| ⚡ OpenAI GPT | LLM conversacional em automações de atendimento |
 | 🎙️ Groq Whisper | Transcrição de áudio para texto em tempo real |
 | 📓 NotebookLM | Engenharia de prompts e aprendizado com fontes |
 | ☁️ AWS SageMaker Canvas | Predição e modelos de ML sem código |
