@@ -1,10 +1,10 @@
 # Olá, eu sou o Marcelo Poliato 👋
 
-### Product Manager com sólida experiência em tecnologia de produto, em constante aperfeiçoamento em Inteligência Artificial aplicada a negócios e automação inteligente de processos.
+### Product Manager com sólida experiência em tecnologia de produto, em constante aperfeiçoamento em Inteligência Artificial, automação inteligente e análise de dados aplicadas a negócios.
 
-Combino uma trajetória sólida em gestão de produto, liderança de squads e automação de processos com uma imersão prática em Inteligência Artificial Generativa, LLMs, N8N e o método Vibe Coding, transformando problemas reais de negócio em soluções inteligentes e escaláveis.
+Combino uma trajetória sólida em gestão de produto, liderança de squads e automação de processos com uma imersão prática em Inteligência Artificial Generativa, N8N, Power BI e o método Vibe Coding, transformando problemas reais de negócio em soluções inteligentes e escaláveis.
 
-> "Meu diferencial é transformar IA em produtos que geram resultado real de negócio."
+> "Meu diferencial é aplicar IA, automação e análise de dados para construir produtos que geram resultado real de negócio."
 
 ---
 
@@ -13,9 +13,10 @@ Combino uma trajetória sólida em gestão de produto, liderança de squads e au
 Aplico na prática ferramentas de ponta nas áreas de IA & LLMs e automação inteligente, desenvolvendo soluções de produto com IA. Meu foco está em:
 
 - **Product Management para IA**: definição de escopo, roadmap e entrega de produtos com IA embarcada
-- **Vibe Coding**: desenvolvimento ágil de aplicações com assistência de IA (Lovable, Google AI Studio, Claude, Copilot)
+- **Vibe Coding**: desenvolvimento ágil de aplicações com assistência de IA (Lovable, Google AI Studio, Claude-Antropic, OpenIA-GPT, Copilot)
 - **Automação Inteligente**: uso de N8N, LLMs e engenharia de prompts para automatizar fluxos de negócio
 - **Engenharia de Prompts**: criação de prompts estruturados para sistemas de IA em produção
+- **Dados & BI**: análise de dados com Power BI, DAX e Power Query para decisões de negócio
 
 ---
 
