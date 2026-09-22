@@ -122,9 +122,9 @@ Dashboard executivo de Recursos Humanos com preparação de dados no Power Query
 
 ## 🎯 O que busco agora
 
-Estou buscando oportunidades como Product Manager ou Especialista com IA e Automação Inteligente em empresas que acreditam que a inteligência artificial deve gerar impacto real de negócio, não apenas inovar por inovar.
+Estou buscando oportunidades como Product Manager ou Especialista com IA, Automação Inteligente e Análise de Dados em empresas que acreditam que a inteligência artificial deve gerar impacto real de negócio.
 
-Se você trabalha com IA, automação inteligente ou produtos de dados e precisa de alguém que entende tanto de tecnologia quanto de negócio, vamos conversar.
+Se a sua empresa e equipe trabalham com IA, automação inteligente ou análise de dados e precisam de alguém que entende tanto de tecnologia quanto de negócio, vamos conversar.
 
 ---
 
