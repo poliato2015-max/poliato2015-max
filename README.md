@@ -13,7 +13,7 @@ Combino uma trajetória sólida em gestão de produto, liderança de squads e au
 Aplico na prática ferramentas de ponta nas áreas de IA & LLMs e automação inteligente, desenvolvendo soluções de produto com IA. Meu foco está em:
 
 - **Product Management para IA**: definição de escopo, roadmap e entrega de produtos com IA embarcada
-- **Vibe Coding**: desenvolvimento ágil de aplicações com assistência de IA (Lovable, Google AI Studio, Claude-Antropic, OpenIA-GPT, Copilot)
+- **Vibe Coding**: desenvolvimento ágil de aplicações com assistência de IA (Lovable, Google AI Studio, Claude (Anthropic), OpenAI (GPT), Copilot)
 - **Automação Inteligente**: uso de N8N, LLMs e engenharia de prompts para automatizar fluxos de negócio
 - **Engenharia de Prompts**: criação de prompts estruturados para sistemas de IA em produção
 - **Dados & BI**: análise de dados com Power BI, DAX e Power Query para decisões de negócio
