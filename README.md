@@ -2,7 +2,7 @@
 
 ### Product Manager com sólida experiência em tecnologia de produto, em constante aperfeiçoamento em Inteligência Artificial, automação inteligente e análise de dados aplicadas a negócios.
 
-Combino uma trajetória sólida em gestão de produto, liderança de squads e automação de processos com uma imersão prática em Inteligência Artificial Generativa, N8N, Power BI e o método Vibe Coding, transformando problemas reais de negócio em soluções inteligentes e escaláveis.
+Combino uma trajetória sólida em gestão de produto, liderança de squads e automação de processos com uma imersão prática em Inteligência Artificial Generativa, N8N, Power BI, Python e o método Vibe Coding, transformando problemas reais de negócio em soluções inteligentes e escaláveis.
 
 > "Meu diferencial é aplicar IA, automação e análise de dados para construir produtos que geram resultado real de negócio."
 
@@ -16,7 +16,7 @@ Aplico na prática ferramentas de ponta nas áreas de IA & LLMs e automação in
 - **Vibe Coding**: desenvolvimento ágil de aplicações com assistência de IA (Lovable, Google AI Studio, Claude (Anthropic), OpenAI (GPT), Copilot)
 - **Automação Inteligente**: uso de N8N, LLMs e engenharia de prompts para automatizar fluxos de negócio
 - **Engenharia de Prompts**: criação de prompts estruturados para sistemas de IA em produção
-- **Dados & BI**: análise de dados com Power BI, DAX e Power Query para decisões de negócio
+- **Dados & BI**: análise de dados com Power BI, DAX, Power Query e Python (Pandas, Plotly e Streamlit) para decisões de negócio
 
 ---
 
@@ -44,6 +44,10 @@ Aplico na prática ferramentas de ponta nas áreas de IA & LLMs e automação in
 | 🔧 Power Query (M) | ETL, transformação e limpeza de dados |
 | 📈 MicroStrategy | Dashboards gerenciais corporativos |
 | 🐘 PostgreSQL + DBeaver | Consultas, modelagem e extração de dados |
+| 🐼 Pandas e NumPy (bibliotecas Python) | Manipulação, análise e cálculos numéricos sobre dados |
+| 📉 Plotly | Gráficos interativos em Dashboard |
+| 🖥️ Streamlit | Data Apps com filtros, KPIs e exportação em CSV e PDF |
+| 🗄️ SQLite | Banco de dados local de vendas e metas |
 
 ### Desenvolvimento & Backend
 
@@ -55,11 +59,19 @@ Aplico na prática ferramentas de ponta nas áreas de IA & LLMs e automação in
 | 🚀 Vercel | Deploy e hospedagem de aplicações web |
 | 🔗 WhatsApp Cloud API | Integração com API oficial da Meta |
 | 📅 Google Calendar (MCP) | Gerenciamento de agendamentos via agentes de IA |
+| ☁️ Streamlit Community Cloud | Deploy e hospedagem do Dashboard de vendas |
+| 🐍 Python | Linguagem principal: lógica de programação, arquitetura modular e acesso a banco de dados |
 
 
 ---
 
 ## 📂 Projetos em Destaque
+
+### 📈 [Dashboard de Vendas — Python e Streamlit](https://github.com/poliato2015-max/projeto_dashboard_vendas_python_streamlit)
+Aplicação web interativa para análise de vendas, desenvolvida em Python com arquitetura modular — filtros por período, região, categoria e produto, KPIs, cinco gráficos analíticos, comparação entre realizado e meta (com rateio proporcional em períodos parciais) e exportação em CSV e PDF. Dados armazenados em SQLite e aplicação publicada no Streamlit Community Cloud. Projeto de estudo e portfólio com dados sintéticos.
+`Python` `Streamlit` `Pandas` `Plotly` `SQLite` `FPDF2` `Data App` `Streamlit Cloud`
+
+---
 
 ### 🛵 [DeliveryPro — Sistema Completo de Delivery](https://github.com/poliato2015-max/projeto-ia-lovable-n8n-app-deliverypro)
 Plataforma web full-stack para gerenciamento do ciclo completo de pedidos de delivery — cardápio público, carrinho, checkout, aprovação administrativa em Kanban, validação geográfica de entrega, relatórios gerenciais e notificações automáticas via WhatsApp integrado ao N8N.
@@ -82,12 +94,6 @@ Fluxo completo de atendimento automático via WhatsApp para consultórios odonto
 ### 🤖 [Executive Lens — CRM Inteligente com Google AI Studio](https://github.com/poliato2015-max/projeto_ia_google_ia_studio_sistema_crm)
 Plataforma CRM completa com autenticação, pipeline de negócios, métricas de performance e central de tarefas — desenvolvida com Google AI Studio (Gemini) como copiloto de desenvolvimento, integrando Supabase como backend e Vercel para deploy.
 `TypeScript` `Google AI Studio` `Gemini` `Supabase` `Vercel` `Lovable`
-
----
-
-### 🎮 [GamerZone — Copiloto de Vendas com IA](https://github.com/poliato2015-max/projeto_ia_lovable_claude_app_venda_gamer)
-Assistente de vendas com IA que gera estratégia completa de venda, cross-sell e follow-up para WhatsApp em tempo real, com RAG simulado para consulta à política da loja. Desenvolvido com Vibe Coding usando Lovable e Gemini 2.5 Flash.
-`TypeScript` `Lovable` `Claude` `Gemini` `Vibe Coding`
 
 ---
 
