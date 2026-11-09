@@ -67,7 +67,7 @@ Plataforma web full-stack para gerenciamento do ciclo completo de pedidos de del
 
 ---
 
-### 📄 [RadarCV — Inteligência de Carreira com IA](https://github.comliato2015-max/projeto-ia-lovable-curriculo-match-ats)
+### 📄 [RadarCV — Inteligência de Carreira com IA](https://github.com/poliato2015-max/projeto-ia-lovable-curriculo-match-ats)
 Plataforma web completa para análise de vagas e geração de currículos otimizados para sistemas ATS com IA Generativa — análise de compatibilidade, pontuação, identificação de gaps, geração de currículo ATS, biblioteca de currículos com versionamento e exportação em PDF e DOCX.
 `React` `TypeScript` `Supabase` `IA Generativa` `ATS` `Lovable` `PDF` `DOCX`
 
