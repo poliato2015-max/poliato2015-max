@@ -10,7 +10,7 @@ Combino uma trajetória sólida em gestão de produto, liderança de squads e au
 
 ## 🚀 O que estou construindo agora
 
-Aplico na prática ferramentas de ponta nas áreas de IA & LLMs e automação inteligente, desenvolvendo soluções de produto com IA. Meu foco está em:
+Aplico na prática ferramentas de ponta nas áreas de IA & LLMs, automação inteligente e análise de dados, desenvolvendo soluções de produto. Meu foco está em:
 
 - **Product Management para IA**: definição de escopo, roadmap e entrega de produtos com IA embarcada
 - **Vibe Coding**: desenvolvimento ágil de aplicações com assistência de IA (Lovable, Google AI Studio, Claude (Anthropic), OpenAI (GPT), Copilot)
