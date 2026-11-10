@@ -115,7 +115,7 @@ Dashboard executivo de Recursos Humanos com preparação de dados no Power Query
 ├── Telerisco (2018–2025) ─── Coordenador de Produto
 │   ├── Liderança de squads multifuncionais
 │   ├── Automação de atendimento via chatbot (WhatsApp)
-│   ├── Homologação de sistemas em nuvem (AWS)
+│   ├── Homologação de sistemas em nuvem (AWS) e Mainframe IBM
 │   └── Gestão de integrações via webservices (Postman + Jira)
 │
 └── Pamcary (1995–2018) ──── Analista de Produto → Analista de Operações
