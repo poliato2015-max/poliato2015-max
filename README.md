@@ -33,7 +33,7 @@ Aplico na prática ferramentas de ponta nas áreas de IA & LLMs, automação int
 | 🎙️ Groq Whisper | Transcrição de áudio para texto em tempo real |
 | 📓 NotebookLM | Engenharia de prompts e aprendizado com fontes |
 | ☁️ AWS SageMaker Canvas | Predição e modelos de ML sem código |
-| ⚡ Lovable + Copilot | Vibe Coding — desenvolvimento de apps com IA |
+| ⚡ Lovable + Copilot | Vibe Coding - desenvolvimento de apps com IA |
 
 ### Dados & BI
 
@@ -45,7 +45,7 @@ Aplico na prática ferramentas de ponta nas áreas de IA & LLMs, automação int
 | 📈 MicroStrategy | Dashboards gerenciais corporativos |
 | 🐘 PostgreSQL + DBeaver | Consultas, modelagem e extração de dados |
 | 🐼 Pandas e NumPy (bibliotecas Python) | Manipulação, análise e cálculos numéricos sobre dados |
-| 📉 Plotly | Gráficos interativos em Dashboard |
+| 📉 Plotly | Gráficos interativos em dashboard |
 | 🖥️ Streamlit | Data Apps com filtros, KPIs e exportação em CSV e PDF |
 | 🗄️ SQLite | Banco de dados local de vendas e metas |
 
@@ -59,7 +59,7 @@ Aplico na prática ferramentas de ponta nas áreas de IA & LLMs, automação int
 | 🚀 Vercel | Deploy e hospedagem de aplicações web |
 | 🔗 WhatsApp Cloud API | Integração com API oficial da Meta |
 | 📅 Google Calendar (MCP) | Gerenciamento de agendamentos via agentes de IA |
-| ☁️ Streamlit Community Cloud | Deploy e hospedagem do Dashboard de vendas |
+| ☁️ Streamlit Community Cloud | Deploy e hospedagem do dashboard de vendas |
 | 🐍 Python | Linguagem principal: lógica de programação, arquitetura modular e acesso a banco de dados |
 
 
@@ -118,7 +118,7 @@ Dashboard executivo de Recursos Humanos com preparação de dados no Power Query
 │   ├── Homologação de sistemas em nuvem (AWS) e Mainframe IBM
 │   └── Gestão de integrações via webservices (Postman + Jira)
 │
-└── Pamcary (1995–2018) ──── Analista de Produto → Analista de Operações
+└── Pamcary (1995–2018) ──── Analista de Operações → Analista de Produto
     ├── Dashboards gerenciais em MicroStrategy
     ├── Automações em VBA/Excel
     └── Gestão de riscos logísticos e seguros de transporte
